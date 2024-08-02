@@ -25,3 +25,5 @@ def grafico_dispersao(l_moedas, l_valores):
     plt.show()
 
 
+
+
